@@ -1,6 +1,6 @@
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&center=true&vCenter=true&multiline=true&width=2000&height=320&lines=Hi+%F0%9F%91%8B%2C+I'm+Jachou;I'm+a+young+developer" alt="Typing SVG" />
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=80&pause=1000&center=true&vCenter=true&multiline=true&width=2000&height=320&lines=Hi+%F0%9F%91%8B%2C+I'm+MatisseAD;I'm+a+young+developer" alt="Typing SVG" />
     </a>
 </h1>
 
@@ -28,7 +28,7 @@
     </a>
     <br>
     <a href="https://github.com/antonkomarev/github-profile-views-counter" title="My Profile Views">
-        <img src="https://komarev.com/ghpvc/?username=Jachou-yt&style=for-the-badge" alt="Profile Views">
+        <img src="https://komarev.com/ghpvc/?username=MatisseAD&style=for-the-badge" alt="Profile Views">
     </a>
 </div>
 
@@ -83,10 +83,10 @@
 <summary>🔥 Streak Stats</summary>
 <br>
 
-<a href="https://www.github.com/Jachou-yt">
+<a href="https://www.github.com/MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Jachou-yt&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
-  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=Jachou-yt&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=MatisseAD&ring=0891b2&fire=0891b2&currStreakLabel=0891b2">
+  <img alt="Github Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=MatisseAD&stroke=ffffff&background=151515&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 </picture>
 </a>
 
@@ -99,16 +99,16 @@
 <summary>📈 Activity Stats</summary>
 <br>
 
-<a href="https://www.github.com/Jachou-yt">
+<a href="https://www.github.com/MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=Jachou-yt&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&show_icons=true&card_width=450px">
-  <img alt="Jachou-yt's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Jachou-yt&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&show_icons=true&card_width=450px" height="192px" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api?username=MatisseAD&show_icons=true&hide=&count_private=true&title_color=0891b2&icon_color=0891b2&show_icons=true&card_width=450px">
+  <img alt="MatisseAD's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=MatisseAD&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&show_icons=true&card_width=450px" height="192px" />
 </picture>
 </a>
-<a href="https://www.github.com/Jachou-yt">
+<a href="https://www.github.com/MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachou-yt&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=250px">
-  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jachou-yt&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact&card_width=250px" height="192px" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisseAD&langs_count=10&title_color=0891b2&icon_color=0891b2&locale=en&layout=compact&card_width=250px">
+  <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatisseAD&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=151515&hide_border=true&locale=en&layout=compact&card_width=250px" height="192px" />
 </picture>
 </a>
 <br>
@@ -124,9 +124,9 @@
 <summary> 📊 Condensed Wakatime Stats (Last 7 days) </summary>
 <br>
 
-<a href="https://wakatime.com/@Jachou-yt">
+<a href="https://wakatime.com/@MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=Jachou-yt&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-stats.vercel.app/api/wakatime?username=MatisseAD&layout=compact&title_color=0891b2&icon_color=0891b2&locale=en">
   <img alt="Languages over the last 7 days" src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/6296869f-53be-4466-88c1-6ae7d01f0c34.svg"/>
 </picture>
 </a>
@@ -140,10 +140,10 @@
 <summary>🎀 Commit Stats </summary>
 <br>
 
-<a href="https://www.github.com/Jachou-yt">
+<a href="https://www.github.com/MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=Jachou-yt&bg_color=ffffff&color=333333&line=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
-  <img alt="GitHub Commits Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=Jachou-yt&bg_color=151515&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-readme-activity-graph.cyclic.app/graph?username=MatisseAD&bg_color=ffffff&color=333333&line=0891b2&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph">
+  <img alt="GitHub Commits Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=MatisseAD&bg_color=151515&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" />
 </picture>
 </a>
 
@@ -155,10 +155,10 @@
 <summary>🏆 Github Trophies </summary>
 <br>
 
-<a href="https://github.com/Jachou-yt">
+<a href="https://github.com/MatisseAD">
 <picture>
-  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=Jachou-yt&column=-1&margin-w=5&margin-h=10">
-  <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=Jachou-yt&theme=discord&column=-1&margin-w=5&margin-h=10&no-frame=true">
+  <source media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" srcset="https://github-profile-trophy.vercel.app/?username=MatisseAD&column=-1&margin-w=5&margin-h=10">
+  <img alt="Github Trophy" src="https://github-profile-trophy.vercel.app/?username=MatisseAD&theme=discord&column=-1&margin-w=5&margin-h=10&no-frame=true">
 </picture>
 </a>
 
@@ -179,7 +179,7 @@
 <details open>
 <summary>📜 Languages </summary>
 
-<a href="https://wakatime.com/@Jachou-yt">
+<a href="https://wakatime.com/@MatisseAD">
     <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/ca108fe6-91de-4edd-a468-28eefccd83e9.svg" alt="Languages over last 30 days" title="Wakatime - Languages" width="900px" height="500px" />
 </a>
 
@@ -190,7 +190,7 @@
 <details open>
 <summary>✍️ Coding activity </summary>
 
-<a href="https://wakatime.com/@Jachou-yt">
+<a href="https://wakatime.com/@MatisseAD">
     <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/5a88b500-35a7-4939-9777-946e640b1269.svg" alt="Coding time over last 30 days" title="Wakatime - Coding Time" width="900px" height="500px" />
 </a>
 
@@ -204,7 +204,7 @@
 
 | IDEs | OS |
 | --- | --- |
-| <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@Jachou-yt/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@Jachou-yt"> <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/baf7d70b-7684-41b0-b92d-a4ab0e7ecbce.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
+| <a href="https://wakatime.com/@MatisseAD"> <img src="https://wakatime.com/share/@MatisseAD/3fbbcb42-59ad-4579-88b1-5fd1f31fa2d8.svg" alt="IDEs over last 30 days" title="Wakatime - IDEs" width="900px" height="500px" /> </a> | <a href="https://wakatime.com/@MatisseAD"> <img src="https://wakatime.com/share/@d017f327-5027-47b0-97d1-52731c06615a/baf7d70b-7684-41b0-b92d-a4ab0e7ecbce.svg" alt="Operating System over last 30 days" title="Wakatime - OS" width="900px" height="500px" /> </a> |
 
 </details>
 </li>

@@ -41,7 +41,7 @@
 <!-- <img align="right" src="./resources/vertical.gif"/> -->
 
 - 🇫🇷 I'm from France
-- 🎓 I'm a **12th Grade** at Blaise Pascal High School
+- 🎓 I'm a CPGE student 
 - 🔭 I’m currently working on [Frouzie](https://frouzie.fr)
 - 🌱 Nowadays I'm learning **React**
 - 💬 Ask me about **Java**, **Python**, **C#**, **C++**

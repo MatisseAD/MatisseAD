@@ -42,7 +42,7 @@
 
 - 🇫🇷 I'm from France
 - 🎓 I'm a CPGE student 
-- 🔭 I’m currently working on [Frouzie](https://frouzie.fr)
+- 🔭 I’m currently working on [Mathematics](https://www.bibmath.net/dico/index.php?action=rub&quoi=200)
 - 🌱 Nowadays I'm learning **React**
 - 💬 Ask me about **Java**, **Python**, **C#**, **C++**
 - 👀 My Hobbies:
